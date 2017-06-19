@@ -1,0 +1,8 @@
+[refactor]<jb> 海尔58寸机型内容添加
+[Module] jb | build
+[Details]
+    Description     : 海尔58寸机型内容添加
+    Root cause      : none
+    Solution        : none
+    Side Effect     : none
+    Test Suggiestion: none
